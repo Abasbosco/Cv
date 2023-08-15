@@ -1,0 +1,54 @@
+
+
+.head {
+  padding: 50px;
+  text-align: center;
+  background-color: aquamarine;
+  border: 2px solid black;
+  float: none;
+}
+
+.main {
+  display: block;
+  width: 100%;
+  background-color: aquamarine;
+  padding: 15px;
+  text-align: center;
+  margin: 5px; 
+  border: 2px solid black;
+}
+
+.nav {
+    display: inline-block;
+    height: 100px;
+    background-color: aquamarine;
+    width: 50%,100%,50%;
+    border: 2px solid black;
+    padding: 10px;
+    font-size: large;
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.footer{
+    display: block;
+    width: 100%;
+    background-color: aquamarine;
+    padding: 15px;
+    text-align: center;
+    margin: 5px; 
+    border: 2px solid black;
+}
+
+ul{
+    list-style-type: none;
+}
+
+body{
+    background-color: peachpuff;
+    width: auto;
+}
